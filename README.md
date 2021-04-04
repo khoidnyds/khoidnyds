@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Đặng Ngọc Khôi
-- 👀 I’m interested in human genome 
 - 🌱 I’m currently learning deep learning and computational biology
-- 💞️ I’m looking to collaborate on CI-WAR project
 - 📫 How to reach me: khoidnyds@vt.edu
 
 <!---
