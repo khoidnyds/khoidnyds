@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Đặng Ngọc Khôi
-- 🌱 I’m currently learning deep learning and computational biology
+- 🌱 I’m currently studying deep learning and computational biology
 - 📫 How to reach me: khoidnyds@vt.edu
 
 <!---
